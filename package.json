@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NikithaReddy12/Nikitha-beingzero/issues"
   },
-  "homepage": "https://github.com/NikithaReddy12/Nikitha-beingzero#readme"
+  "homepage": "https://github.com/NikithaReddy12/Nikitha-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
